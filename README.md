@@ -1,6 +1,6 @@
 # Phea Soy
 
-Hi, my name is Phea. Currently. My professional skill is base Java tech stacks and DevOps.
+Hi, my name is Phea. Currently. My professional skill is base on Java tech stacks and DevOps.
 
 ## Skills
 - Java, Microservices, Spring Boot, Spring Cloud, J2EE
