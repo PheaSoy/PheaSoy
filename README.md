@@ -1,11 +1,11 @@
 # Phea Soy
 
-Hi, my name is Phea. Currently, I am a senior software engineer. I am a Java and Spring Lover. I always learn and make my code better.
+Hi, my name is Phea. Currently. My professional skill is base Java tech stacks and DevOps.
 
 ## Skills
-- Java, Microservices, Spring Boot, Spring Cloud
+- Java, Microservices, Spring Boot, Spring Cloud, J2EE
 - Architecture: Microservices, event-driven
-- DevOps: Docker, Kubernetes, OpenShift
+- Containers: Docker, Kubernetes, OpenShift
 
 ## Passion
 - Love to build software with OOP, design patterns, and high-performance application.
