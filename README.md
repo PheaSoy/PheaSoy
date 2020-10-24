@@ -1,9 +1,15 @@
-# PheaSoy
+# Phea Soy
 
-Working on Java, Spring Framework,MicroServices, Automation, Containers, Messaging, and Software
-Architecture.
+Hi, my name is Phea. Currently, I am a senior software engineer.
 
-Love to build software with OOP, design patterns, and high-performance application.
+## Skills
+- Java, Microservices, Spring Boot, Spring Cloud
+- Architecture: Microservices, event-driven
+- DevOps: Docker, Kubernetes, OpenShift
+
+## Passion
+- Love to build software with OOP, design patterns, and high-performance application.
+- Love the automation
 
 - [x] Writting blogs post on [Medium](https://medium.com/@soyphea)
 - [x] Professional profile and certificates on [Linkedin](https://www.linkedin.com/in/pheasoy/) 
