@@ -17,11 +17,9 @@ Hi, my name is Phea. Currently. My professional skill is base on Java tech stack
 
 
 ## Services and Consultant
-
-- Spring, Spring Boot, and Spring Cloud mentoring and consulting.
-- Part time job with building project using Java, Spring Boot, MySQL, PostgreSQL, Redis,etc.
-- Architect Microservices and Spring Ecoresystem
-
+- Spring Mentoring.
+- Part time job for building project using Java, Spring Boot, MySQL, PostgreSQL, Redis,etc.
+- Architect Microservices, Spring Ecoresystem, and Containers
 
 ## Contact
 - Email: soyphea2222@gmail.com
