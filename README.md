@@ -3,10 +3,12 @@
 Hi, my name is Phea. Currently. My professional skill is based on JAVA, Spring Frameworks, and DevOps.
 
 ## Skills
-- Java, Spring Boot, Spring Cloud, J2EE
+- Java, Spring Boot, Spring Cloud
 - Architecture: Microservices, event-driven, RESTful
 - Containers: Docker, Kubernetes, OpenShift
 - Software design patterns & system design
+- Data store: Redis, PostgreSQL, Elasticsearch
+  
 ## Passion
 - Love to build software with OOP, design patterns, and high-performance applications.
 - I love automation and I always believe is the key to delivering software faster
