@@ -8,10 +8,11 @@ Hi, my name is Phea. Currently. My professional skill is based on JAVA, Spring F
 - Containers: Docker, Kubernetes, OpenShift
 - Software design patterns & system design
 - Data store: Redis, PostgreSQL, Elasticsearch
+- Apache Kafka and RabbitMQ
   
 ## Passion
-- Love to build software with OOP, design patterns, and high-performance applications.
-- I love automation and I always believe is the key to delivering software faster
+- Love to resolve challenges and problems with languages, frameworks, and system design
+- SRE, System Design, Scaling, High perform financial application
 
 - [x] Writing blogs post on [Medium](https://medium.com/@soyphea)
 - [x] Professional profile and certificates on [Linkedin](https://www.linkedin.com/in/pheasoy/) 
